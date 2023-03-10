@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+1,2022-08-06,Away,D,2,2,Fulham,1.2,1.2,67,Liverpool
+2,2022-08-15,Home,D,1,1,Crystal Palace,2.0,1.0,72,Liverpool
+3,2022-08-22,Away,L,1,2,Manchester Utd,1.3,1.8,70,Liverpool
+4,2022-08-27,Home,W,9,0,Bournemouth,3.3,0.3,69,Liverpool
+5,2022-08-31,Home,W,2,1,Newcastle Utd,1.5,0.7,72,Liverpool
+6,2022-09-03,Away,D,0,0,Everton,2.1,1.7,61,Liverpool
+9,2022-10-01,Home,D,3,3,Brighton,1.5,1.4,54,Liverpool
+11,2022-10-09,Away,L,2,3,Arsenal,1.1,2.7,57,Liverpool
+13,2022-10-16,Home,W,1,0,Manchester City,2.1,1.0,37,Liverpool
+14,2022-10-19,Home,W,1,0,West Ham,1.7,1.7,54,Liverpool
+15,2022-10-22,Away,L,0,1,Nott'ham Forest,1.6,1.9,75,Liverpool
+17,2022-10-29,Home,L,1,2,Leeds United,1.7,1.8,68,Liverpool
+19,2022-11-06,Away,W,2,1,Tottenham,1.2,1.2,53,Liverpool
+21,2022-11-12,Home,W,3,1,Southampton,1.9,1.1,60,Liverpool
+23,2022-12-26,Away,W,3,1,Aston Villa,2.7,1.4,52,Liverpool
+24,2022-12-30,Home,W,2,1,Leicester City,2.2,1.0,57,Liverpool
+25,2023-01-02,Away,L,1,3,Brentford,2.0,1.7,72,Liverpool
+27,2023-01-14,Away,L,0,3,Brighton,1.0,1.9,39,Liverpool
+29,2023-01-21,Home,D,0,0,Chelsea,1.4,1.6,48,Liverpool
+31,2023-02-04,Away,L,0,3,Wolves,1.8,2.0,59,Liverpool
+32,2023-02-13,Home,W,2,0,Everton,2.2,0.3,59,Liverpool
+33,2023-02-18,Away,W,2,0,Newcastle Utd,2.4,2.0,62,Liverpool
+35,2023-02-25,Away,D,0,0,Crystal Palace,0.9,0.6,63,Liverpool
+36,2023-03-01,Home,W,2,0,Wolves,2.5,0.8,57,Liverpool
+37,2023-03-05,Home,W,7,0,Manchester Utd,2.8,0.8,59,Liverpool
+38,2023-03-11,Away,,,,Bournemouth,,,,Liverpool
+40,2023-03-18,Home,,,,Fulham,,,,Liverpool
+41,2023-04-01,Away,,,,Manchester City,,,,Liverpool
+42,2023-04-04,Away,,,,Chelsea,,,,Liverpool
+43,2023-04-09,Home,,,,Arsenal,,,,Liverpool
+44,2023-04-17,Away,,,,Leeds United,,,,Liverpool
+45,2023-04-22,Home,,,,Nott'ham Forest,,,,Liverpool
+46,2023-04-26,Away,,,,West Ham,,,,Liverpool
+47,2023-04-30,Home,,,,Tottenham,,,,Liverpool
+48,2023-05-06,Home,,,,Brentford,,,,Liverpool
+49,2023-05-13,Away,,,,Leicester City,,,,Liverpool
+50,2023-05-20,Home,,,,Aston Villa,,,,Liverpool
+51,2023-05-28,Away,,,,Southampton,,,,Liverpool

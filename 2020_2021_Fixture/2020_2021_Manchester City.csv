@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2020-09-21,Away,W,3,1,Wolves,1.9,0.6,65.0,Manchester City
+2,2020-09-27,Home,L,2,5,Leicester City,0.9,2.9,72.0,Manchester City
+4,2020-10-03,Away,D,1,1,Leeds United,1.2,2.4,49.0,Manchester City
+5,2020-10-17,Home,W,1,0,Arsenal,1.3,0.9,58.0,Manchester City
+7,2020-10-24,Away,D,1,1,West Ham,1.0,0.3,69.0,Manchester City
+9,2020-10-31,Away,W,1,0,Sheffield Utd,1.6,0.5,65.0,Manchester City
+11,2020-11-08,Home,D,1,1,Liverpool,1.4,1.2,54.0,Manchester City
+12,2020-11-21,Away,L,0,2,Tottenham,1.4,0.7,66.0,Manchester City
+14,2020-11-28,Home,W,5,0,Burnley,1.7,0.5,68.0,Manchester City
+16,2020-12-05,Home,W,2,0,Fulham,2.9,0.3,69.0,Manchester City
+18,2020-12-12,Away,D,0,0,Manchester Utd,1.3,0.6,54.0,Manchester City
+19,2020-12-15,Home,D,1,1,West Brom,2.2,0.4,77.0,Manchester City
+20,2020-12-19,Away,W,1,0,Southampton,0.9,0.7,52.0,Manchester City
+22,2020-12-26,Home,W,2,0,Newcastle Utd,3.0,0.3,74.0,Manchester City
+23,2021-01-03,Away,W,3,1,Chelsea,2.7,0.8,46.0,Manchester City
+26,2021-01-13,Home,W,1,0,Brighton,2.0,0.2,65.0,Manchester City
+27,2021-01-17,Home,W,4,0,Crystal Palace,0.7,0.1,71.0,Manchester City
+28,2021-01-20,Home,W,2,0,Aston Villa,3.4,0.6,69.0,Manchester City
+30,2021-01-26,Away,W,5,0,West Brom,1.8,0.5,77.0,Manchester City
+31,2021-01-30,Home,W,1,0,Sheffield Utd,1.5,0.2,75.0,Manchester City
+32,2021-02-03,Away,W,2,0,Burnley,2.0,0.1,74.0,Manchester City
+33,2021-02-07,Away,W,4,1,Liverpool,3.5,1.2,44.0,Manchester City
+35,2021-02-13,Home,W,3,0,Tottenham,2.2,0.3,60.0,Manchester City
+36,2021-02-17,Away,W,3,1,Everton,1.0,1.0,71.0,Manchester City
+37,2021-02-21,Away,W,1,0,Arsenal,1.8,0.3,55.0,Manchester City
+39,2021-02-27,Home,W,2,1,West Ham,0.5,1.5,63.0,Manchester City
+40,2021-03-02,Home,W,4,1,Wolves,3.3,0.3,72.0,Manchester City
+41,2021-03-07,Home,L,0,2,Manchester Utd,1.3,1.7,66.0,Manchester City
+42,2021-03-10,Home,W,5,2,Southampton,2.6,1.6,58.0,Manchester City
+43,2021-03-13,Away,W,3,0,Fulham,2.2,0.3,54.0,Manchester City
+46,2021-04-03,Away,W,2,0,Leicester City,1.4,0.3,56.0,Manchester City
+48,2021-04-10,Home,L,1,2,Leeds United,2.1,0.1,71.0,Manchester City
+51,2021-04-21,Away,W,2,1,Aston Villa,1.2,0.7,72.0,Manchester City
+54,2021-05-01,Away,W,2,0,Crystal Palace,1.7,0.9,68.0,Manchester City
+56,2021-05-08,Home,L,1,2,Chelsea,1.8,0.7,48.0,Manchester City
+57,2021-05-14,Away,W,4,3,Newcastle Utd,1.5,2.2,82.0,Manchester City
+58,2021-05-18,Away,L,2,3,Brighton,0.9,1.1,37.0,Manchester City
+59,2021-05-23,Home,W,5,0,Everton,2.5,1.1,67.0,Manchester City

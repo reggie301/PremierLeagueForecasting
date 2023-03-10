@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2017-08-13,Away,L,0,4,Manchester Utd,0.5,2.1,45.0,West Ham
+1,2017-08-19,Away,L,2,3,Southampton,2.0,2.1,34.0,West Ham
+3,2017-08-26,Away,L,0,3,Newcastle Utd,0.6,2.3,63.0,West Ham
+4,2017-09-11,Home,W,2,0,Huddersfield,1.7,0.4,44.0,West Ham
+5,2017-09-16,Away,D,0,0,West Brom,0.3,0.7,63.0,West Ham
+7,2017-09-23,Home,L,2,3,Tottenham,0.6,1.2,49.0,West Ham
+8,2017-09-30,Home,W,1,0,Swansea City,0.7,0.2,44.0,West Ham
+9,2017-10-14,Away,D,1,1,Burnley,0.9,1.2,38.0,West Ham
+10,2017-10-20,Home,L,0,3,Brighton,0.7,1.4,65.0,West Ham
+12,2017-10-28,Away,D,2,2,Crystal Palace,0.8,2.6,45.0,West Ham
+13,2017-11-04,Home,L,1,4,Liverpool,1.2,2.7,48.0,West Ham
+14,2017-11-19,Away,L,0,2,Watford,1.6,1.0,42.0,West Ham
+15,2017-11-24,Home,D,1,1,Leicester City,0.9,0.4,50.0,West Ham
+16,2017-11-29,Away,L,0,4,Everton,1.1,1.5,56.0,West Ham
+17,2017-12-03,Away,L,1,2,Manchester City,0.6,2.3,24.0,West Ham
+18,2017-12-09,Home,W,1,0,Chelsea,0.3,1.2,31.0,West Ham
+19,2017-12-13,Home,D,0,0,Arsenal,0.4,1.0,31.0,West Ham
+20,2017-12-16,Away,W,3,0,Stoke City,3.1,1.1,46.0,West Ham
+22,2017-12-23,Home,L,2,3,Newcastle Utd,2.1,1.7,64.0,West Ham
+23,2017-12-26,Away,D,3,3,Bournemouth,1.7,2.9,45.0,West Ham
+24,2018-01-02,Home,W,2,1,West Brom,1.3,1.0,53.0,West Ham
+25,2018-01-04,Away,D,1,1,Tottenham,0.5,1.8,30.0,West Ham
+27,2018-01-13,Away,W,4,1,Huddersfield,0.9,0.7,37.0,West Ham
+29,2018-01-20,Home,D,1,1,Bournemouth,0.8,0.5,48.0,West Ham
+31,2018-01-30,Home,D,1,1,Crystal Palace,1.1,0.9,41.0,West Ham
+32,2018-02-03,Away,L,1,3,Brighton,0.4,1.7,45.0,West Ham
+33,2018-02-10,Home,W,2,0,Watford,1.5,0.6,37.0,West Ham
+34,2018-02-24,Away,L,1,4,Liverpool,0.4,4.0,33.0,West Ham
+35,2018-03-03,Away,L,1,4,Swansea City,0.4,1.8,54.0,West Ham
+36,2018-03-10,Home,L,0,3,Burnley,0.8,1.4,52.0,West Ham
+37,2018-03-31,Home,W,3,0,Southampton,1.4,0.5,49.0,West Ham
+38,2018-04-08,Away,D,1,1,Chelsea,0.3,1.7,41.0,West Ham
+39,2018-04-16,Home,D,1,1,Stoke City,0.8,1.7,63.0,West Ham
+40,2018-04-22,Away,L,1,4,Arsenal,0.8,1.8,33.0,West Ham
+41,2018-04-29,Home,L,1,4,Manchester City,0.2,2.4,26.0,West Ham
+42,2018-05-05,Away,W,2,0,Leicester City,1.6,0.5,47.0,West Ham
+43,2018-05-10,Home,D,0,0,Manchester Utd,0.6,0.8,44.0,West Ham
+44,2018-05-13,Home,W,3,1,Everton,1.1,1.6,57.0,West Ham

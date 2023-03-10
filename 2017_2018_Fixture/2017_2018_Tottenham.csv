@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2017-08-13,Away,W,2,0,Newcastle Utd,2.5,0.8,72.0,Tottenham
+1,2017-08-20,Home,L,1,2,Chelsea,0.7,0.7,68.0,Tottenham
+2,2017-08-27,Home,D,1,1,Burnley,2.3,0.9,66.0,Tottenham
+3,2017-09-09,Away,W,3,0,Everton,1.8,0.9,49.0,Tottenham
+5,2017-09-16,Home,D,0,0,Swansea City,1.1,0.2,75.0,Tottenham
+7,2017-09-23,Away,W,3,2,West Ham,1.2,0.6,51.0,Tottenham
+9,2017-09-30,Away,W,4,0,Huddersfield,1.5,0.2,59.0,Tottenham
+10,2017-10-14,Home,W,1,0,Bournemouth,1.8,0.2,72.0,Tottenham
+12,2017-10-22,Home,W,4,1,Liverpool,2.0,0.6,37.0,Tottenham
+14,2017-10-28,Away,L,0,1,Manchester Utd,1.2,0.8,55.0,Tottenham
+16,2017-11-05,Home,W,1,0,Crystal Palace,0.9,0.8,68.0,Tottenham
+17,2017-11-18,Away,L,0,2,Arsenal,0.7,2.1,57.0,Tottenham
+19,2017-11-25,Home,D,1,1,West Brom,1.8,0.7,72.0,Tottenham
+20,2017-11-28,Away,L,1,2,Leicester City,2.4,0.6,62.0,Tottenham
+21,2017-12-02,Away,D,1,1,Watford,0.8,0.4,50.0,Tottenham
+23,2017-12-09,Home,W,5,1,Stoke City,3.6,0.5,71.0,Tottenham
+24,2017-12-13,Home,W,2,0,Brighton,1.5,0.4,74.0,Tottenham
+25,2017-12-16,Away,L,1,4,Manchester City,0.2,3.4,48.0,Tottenham
+26,2017-12-23,Away,W,3,0,Burnley,3.1,0.2,59.0,Tottenham
+27,2017-12-26,Home,W,5,2,Southampton,3.0,0.8,57.0,Tottenham
+28,2018-01-02,Away,W,2,0,Swansea City,1.3,0.4,67.0,Tottenham
+29,2018-01-04,Home,D,1,1,West Ham,1.8,0.5,70.0,Tottenham
+31,2018-01-13,Home,W,4,0,Everton,3.8,0.3,61.0,Tottenham
+32,2018-01-21,Away,D,1,1,Southampton,1.2,0.8,59.0,Tottenham
+34,2018-01-31,Home,W,2,0,Manchester Utd,1.5,1.0,52.0,Tottenham
+35,2018-02-04,Away,D,2,2,Liverpool,2.6,1.2,66.0,Tottenham
+37,2018-02-10,Home,W,1,0,Arsenal,2.6,0.6,50.0,Tottenham
+40,2018-02-25,Away,W,1,0,Crystal Palace,1.7,0.2,75.0,Tottenham
+42,2018-03-03,Home,W,2,0,Huddersfield,1.6,0.1,74.0,Tottenham
+44,2018-03-11,Away,W,4,1,Bournemouth,2.4,1.2,63.0,Tottenham
+46,2018-04-01,Away,W,3,1,Chelsea,1.4,1.0,51.0,Tottenham
+47,2018-04-07,Away,W,2,1,Stoke City,1.7,1.4,65.0,Tottenham
+48,2018-04-14,Home,L,1,3,Manchester City,0.4,2.9,48.0,Tottenham
+49,2018-04-17,Away,D,1,1,Brighton,1.3,1.1,63.0,Tottenham
+51,2018-04-30,Home,W,2,0,Watford,1.4,1.3,61.0,Tottenham
+52,2018-05-05,Away,L,0,1,West Brom,1.2,1.6,74.0,Tottenham
+53,2018-05-09,Home,W,1,0,Newcastle Utd,0.8,1.0,63.0,Tottenham
+54,2018-05-13,Home,W,5,4,Leicester City,1.8,1.4,64.0,Tottenham

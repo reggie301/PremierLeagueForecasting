@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2019-08-09,Away,L,1,4,Liverpool,0.9,1.8,43.0,Norwich City
+1,2019-08-17,Home,W,3,1,Newcastle Utd,1.7,0.9,63.0,Norwich City
+2,2019-08-24,Home,L,2,3,Chelsea,1.1,1.5,46.0,Norwich City
+4,2019-08-31,Away,L,0,2,West Ham,1.4,2.0,52.0,Norwich City
+5,2019-09-14,Home,W,3,2,Manchester City,1.5,2.3,32.0,Norwich City
+6,2019-09-21,Away,L,0,2,Burnley,0.8,2.0,58.0,Norwich City
+7,2019-09-28,Away,L,0,2,Crystal Palace,0.7,1.5,55.0,Norwich City
+8,2019-10-05,Home,L,1,5,Aston Villa,2.6,3.0,57.0,Norwich City
+9,2019-10-19,Away,D,0,0,Bournemouth,0.4,0.7,52.0,Norwich City
+10,2019-10-27,Home,L,1,3,Manchester Utd,1.0,4.2,46.0,Norwich City
+11,2019-11-02,Away,L,0,2,Brighton,0.4,2.7,42.0,Norwich City
+12,2019-11-08,Home,L,0,2,Watford,0.7,1.3,66.0,Norwich City
+13,2019-11-23,Away,W,2,0,Everton,1.7,0.9,43.0,Norwich City
+14,2019-12-01,Home,D,2,2,Arsenal,0.8,1.9,40.0,Norwich City
+15,2019-12-04,Away,L,1,2,Southampton,0.9,1.7,60.0,Norwich City
+16,2019-12-08,Home,L,1,2,Sheffield Utd,0.7,0.8,58.0,Norwich City
+17,2019-12-14,Away,D,1,1,Leicester City,1.1,1.1,43.0,Norwich City
+18,2019-12-21,Home,L,1,2,Wolves,1.3,1.4,50.0,Norwich City
+19,2019-12-26,Away,L,0,1,Aston Villa,1.2,0.6,57.0,Norwich City
+20,2019-12-28,Home,D,2,2,Tottenham,0.2,1.9,42.0,Norwich City
+21,2020-01-01,Home,D,1,1,Crystal Palace,1.4,1.3,41.0,Norwich City
+23,2020-01-11,Away,L,0,4,Manchester Utd,0.3,2.9,40.0,Norwich City
+24,2020-01-18,Home,W,1,0,Bournemouth,1.8,0.7,65.0,Norwich City
+25,2020-01-22,Away,L,1,2,Tottenham,1.5,2.1,49.0,Norwich City
+27,2020-02-01,Away,D,0,0,Newcastle Utd,2.2,1.0,56.0,Norwich City
+28,2020-02-15,Home,L,0,1,Liverpool,0.3,2.0,37.0,Norwich City
+29,2020-02-23,Away,L,0,3,Wolves,0.4,2.9,60.0,Norwich City
+30,2020-02-28,Home,W,1,0,Leicester City,0.6,1.3,43.0,Norwich City
+32,2020-03-07,Away,L,0,1,Sheffield Utd,2.4,0.9,58.0,Norwich City
+33,2020-06-19,Home,L,0,3,Southampton,0.6,1.7,54.0,Norwich City
+34,2020-06-24,Home,L,0,1,Everton,0.4,0.8,47.0,Norwich City
+36,2020-07-01,Away,L,0,4,Arsenal,0.3,1.5,49.0,Norwich City
+37,2020-07-04,Home,L,0,1,Brighton,0.6,1.0,58.0,Norwich City
+38,2020-07-07,Away,L,1,2,Watford,1.2,1.2,56.0,Norwich City
+39,2020-07-11,Home,L,0,4,West Ham,0.6,3.5,53.0,Norwich City
+40,2020-07-14,Away,L,0,1,Chelsea,0.1,2.5,33.0,Norwich City
+41,2020-07-18,Home,L,0,2,Burnley,0.3,1.8,42.0,Norwich City
+42,2020-07-26,Away,L,0,5,Manchester City,1.0,3.2,27.0,Norwich City

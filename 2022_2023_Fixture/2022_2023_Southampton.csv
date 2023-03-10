@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2022-08-06,Away,L,1,4,Tottenham,0.5,1.5,42,Southampton
+1,2022-08-13,Home,D,2,2,Leeds United,1.2,1.8,43,Southampton
+2,2022-08-20,Away,W,2,1,Leicester City,0.9,0.3,38,Southampton
+4,2022-08-27,Home,L,0,1,Manchester Utd,1.4,1.1,49,Southampton
+5,2022-08-30,Home,W,2,1,Chelsea,1.1,1.1,33,Southampton
+6,2022-09-03,Away,L,0,1,Wolves,1.2,0.8,49,Southampton
+7,2022-09-16,Away,L,0,1,Aston Villa,0.3,1.5,47,Southampton
+8,2022-10-01,Home,L,1,2,Everton,1.7,2.0,55,Southampton
+9,2022-10-08,Away,L,0,4,Manchester City,0.2,2.4,35,Southampton
+10,2022-10-16,Home,D,1,1,West Ham,0.5,1.7,39,Southampton
+11,2022-10-19,Away,W,1,0,Bournemouth,1.0,1.0,46,Southampton
+12,2022-10-23,Home,D,1,1,Arsenal,0.7,1.0,41,Southampton
+13,2022-10-29,Away,L,0,1,Crystal Palace,1.3,0.9,56,Southampton
+14,2022-11-06,Home,L,1,4,Newcastle Utd,1.7,0.9,55,Southampton
+16,2022-11-12,Away,L,1,3,Liverpool,1.1,1.9,40,Southampton
+18,2022-12-26,Home,L,1,3,Brighton,1.9,0.6,34,Southampton
+19,2022-12-31,Away,L,1,2,Fulham,0.8,1.5,38,Southampton
+20,2023-01-04,Home,L,0,1,Nott'ham Forest,0.5,1.4,63,Southampton
+23,2023-01-14,Away,W,2,1,Everton,1.2,1.4,48,Southampton
+24,2023-01-21,Home,L,0,1,Aston Villa,0.6,1.4,37,Southampton
+28,2023-02-04,Away,L,0,3,Brentford,0.7,2.2,51,Southampton
+29,2023-02-11,Home,L,1,2,Wolves,1.1,0.8,41,Southampton
+30,2023-02-18,Away,W,1,0,Chelsea,0.8,1.5,39,Southampton
+31,2023-02-25,Away,L,0,1,Leeds United,0.4,0.9,40,Southampton
+33,2023-03-04,Home,W,1,0,Leicester City,1.4,1.9,35,Southampton
+34,2023-03-12,Away,,,,Manchester Utd,,,,Southampton
+35,2023-03-15,Home,,,,Brentford,,,,Southampton
+36,2023-03-18,Home,,,,Tottenham,,,,Southampton
+37,2023-04-02,Away,,,,West Ham,,,,Southampton
+38,2023-04-09,Home,,,,Manchester City,,,,Southampton
+39,2023-04-15,Home,,,,Crystal Palace,,,,Southampton
+40,2023-04-21,Away,,,,Arsenal,,,,Southampton
+41,2023-04-25,Home,,,,Bournemouth,,,,Southampton
+42,2023-04-30,Away,,,,Newcastle Utd,,,,Southampton
+43,2023-05-06,Away,,,,Nott'ham Forest,,,,Southampton
+44,2023-05-13,Home,,,,Fulham,,,,Southampton
+45,2023-05-20,Away,,,,Brighton,,,,Southampton
+46,2023-05-28,Home,,,,Liverpool,,,,Southampton

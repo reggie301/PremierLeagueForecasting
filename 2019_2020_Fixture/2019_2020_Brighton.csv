@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2019-08-10,Away,W,3,0,Watford,0.8,0.7,51.0,Brighton
+1,2019-08-17,Home,D,1,1,West Ham,2.0,0.8,57.0,Brighton
+2,2019-08-24,Home,L,0,2,Southampton,0.8,1.7,51.0,Brighton
+4,2019-08-31,Away,L,0,4,Manchester City,0.9,1.9,47.0,Brighton
+5,2019-09-14,Home,D,1,1,Burnley,1.4,0.4,62.0,Brighton
+6,2019-09-21,Away,D,0,0,Newcastle Utd,1.4,0.9,71.0,Brighton
+8,2019-09-28,Away,L,0,2,Chelsea,0.6,3.7,47.0,Brighton
+9,2019-10-05,Home,W,3,0,Tottenham,2.4,0.4,48.0,Brighton
+10,2019-10-19,Away,L,1,2,Aston Villa,1.2,3.0,51.0,Brighton
+11,2019-10-26,Home,W,3,2,Everton,1.2,0.9,55.0,Brighton
+12,2019-11-02,Home,W,2,0,Norwich City,2.7,0.4,58.0,Brighton
+13,2019-11-10,Away,L,1,3,Manchester Utd,0.8,3.6,58.0,Brighton
+14,2019-11-23,Home,L,0,2,Leicester City,0.6,3.6,53.0,Brighton
+15,2019-11-30,Away,L,1,2,Liverpool,0.8,1.3,56.0,Brighton
+16,2019-12-05,Away,W,2,1,Arsenal,1.7,0.9,50.0,Brighton
+17,2019-12-08,Home,D,2,2,Wolves,1.2,1.5,61.0,Brighton
+18,2019-12-16,Away,D,1,1,Crystal Palace,2.3,0.7,65.0,Brighton
+19,2019-12-21,Home,L,0,1,Sheffield Utd,0.5,1.3,69.0,Brighton
+20,2019-12-26,Away,L,1,2,Tottenham,1.0,0.8,46.0,Brighton
+21,2019-12-28,Home,W,2,0,Bournemouth,0.8,0.5,55.0,Brighton
+22,2020-01-01,Home,D,1,1,Chelsea,1.3,1.3,48.0,Brighton
+24,2020-01-11,Away,L,0,1,Everton,1.3,1.7,47.0,Brighton
+25,2020-01-18,Home,D,1,1,Aston Villa,1.1,0.6,55.0,Brighton
+26,2020-01-21,Away,L,1,3,Bournemouth,1.8,1.4,66.0,Brighton
+27,2020-02-01,Away,D,3,3,West Ham,1.9,0.8,65.0,Brighton
+28,2020-02-08,Home,D,1,1,Watford,0.8,0.2,66.0,Brighton
+29,2020-02-22,Away,D,1,1,Sheffield Utd,1.2,1.6,35.0,Brighton
+30,2020-02-29,Home,L,0,1,Crystal Palace,2.2,2.5,65.0,Brighton
+31,2020-03-07,Away,D,0,0,Wolves,0.3,0.8,57.0,Brighton
+32,2020-06-20,Home,W,2,1,Arsenal,1.0,0.8,41.0,Brighton
+33,2020-06-23,Away,D,0,0,Leicester City,1.1,0.6,34.0,Brighton
+34,2020-06-30,Home,L,0,3,Manchester Utd,0.4,1.0,38.0,Brighton
+35,2020-07-04,Away,W,1,0,Norwich City,1.0,0.6,42.0,Brighton
+36,2020-07-08,Home,L,1,3,Liverpool,2.4,2.5,44.0,Brighton
+37,2020-07-11,Home,L,0,5,Manchester City,0.2,4.4,30.0,Brighton
+38,2020-07-16,Away,D,1,1,Southampton,0.7,2.5,33.0,Brighton
+39,2020-07-20,Home,D,0,0,Newcastle Utd,0.8,0.9,61.0,Brighton
+40,2020-07-26,Away,W,2,1,Burnley,1.2,1.7,45.0,Brighton

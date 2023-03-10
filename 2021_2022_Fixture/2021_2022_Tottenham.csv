@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2021-08-15,Home,W,1,0,Manchester City,1.0,1.8,35.0,Tottenham
+2,2021-08-22,Away,W,1,0,Wolves,1.7,1.7,42.0,Tottenham
+4,2021-08-29,Home,W,1,0,Watford,1.0,0.8,57.0,Tottenham
+5,2021-09-11,Away,L,0,3,Crystal Palace,0.1,2.1,38.0,Tottenham
+7,2021-09-19,Home,L,0,3,Chelsea,0.5,2.1,47.0,Tottenham
+9,2021-09-26,Away,L,1,3,Arsenal,1.0,1.1,54.0,Tottenham
+11,2021-10-03,Home,W,2,1,Aston Villa,1.3,1.2,56.0,Tottenham
+12,2021-10-17,Away,W,3,2,Newcastle Utd,1.7,0.4,64.0,Tottenham
+14,2021-10-24,Away,L,0,1,West Ham,0.7,1.3,62.0,Tottenham
+16,2021-10-30,Home,L,0,3,Manchester Utd,1.0,1.5,58.0,Tottenham
+18,2021-11-07,Away,D,0,0,Everton,0.7,0.6,55.0,Tottenham
+19,2021-11-21,Home,W,2,1,Leeds United,2.1,1.4,43.0,Tottenham
+21,2021-12-02,Home,W,2,0,Brentford,1.9,0.3,47.0,Tottenham
+22,2021-12-05,Home,W,3,0,Norwich City,1.6,1.2,41.0,Tottenham
+24,2021-12-19,Home,D,2,2,Liverpool,3.0,1.1,44.0,Tottenham
+26,2021-12-26,Home,W,3,0,Crystal Palace,2.3,0.2,60.0,Tottenham
+27,2021-12-28,Away,D,1,1,Southampton,2.3,0.4,65.0,Tottenham
+28,2022-01-01,Away,W,1,0,Watford,2.2,0.3,74.0,Tottenham
+32,2022-01-19,Away,W,3,2,Leicester City,3.1,1.2,51.0,Tottenham
+33,2022-01-23,Away,L,0,2,Chelsea,0.5,1.2,36.0,Tottenham
+35,2022-02-09,Home,L,2,3,Southampton,1.4,2.2,48.0,Tottenham
+36,2022-02-13,Home,L,0,2,Wolves,1.2,1.3,58.0,Tottenham
+37,2022-02-19,Away,W,3,2,Manchester City,1.4,2.1,29.0,Tottenham
+38,2022-02-23,Away,L,0,1,Burnley,0.7,0.9,66.0,Tottenham
+39,2022-02-26,Away,W,4,0,Leeds United,1.9,1.5,50.0,Tottenham
+41,2022-03-07,Home,W,5,0,Everton,2.5,0.2,55.0,Tottenham
+42,2022-03-12,Away,L,2,3,Manchester Utd,1.5,1.0,57.0,Tottenham
+43,2022-03-16,Away,W,2,0,Brighton,2.2,0.7,52.0,Tottenham
+44,2022-03-20,Home,W,3,1,West Ham,3.0,0.6,53.0,Tottenham
+45,2022-04-03,Home,W,5,1,Newcastle Utd,3.1,0.5,60.0,Tottenham
+46,2022-04-09,Away,W,4,0,Aston Villa,1.1,1.6,48.0,Tottenham
+47,2022-04-16,Home,L,0,1,Brighton,0.5,0.6,49.0,Tottenham
+48,2022-04-23,Away,D,0,0,Brentford,0.6,0.9,56.0,Tottenham
+49,2022-05-01,Home,W,3,1,Leicester City,1.2,0.5,40.0,Tottenham
+50,2022-05-07,Away,D,1,1,Liverpool,0.9,1.3,36.0,Tottenham
+51,2022-05-12,Home,W,3,0,Arsenal,2.7,0.5,57.0,Tottenham
+52,2022-05-15,Home,W,1,0,Burnley,2.2,0.7,68.0,Tottenham
+53,2022-05-22,Away,W,5,0,Norwich City,3.4,0.5,59.0,Tottenham

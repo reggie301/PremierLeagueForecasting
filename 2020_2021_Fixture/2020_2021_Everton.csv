@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2020-09-13,Away,W,1,0,Tottenham,1.2,1.1,48.0,Everton
+2,2020-09-19,Home,W,5,2,West Brom,3.9,0.3,71.0,Everton
+4,2020-09-26,Away,W,2,1,Crystal Palace,1.9,0.4,58.0,Everton
+6,2020-10-03,Home,W,4,2,Brighton,1.6,1.3,43.0,Everton
+7,2020-10-17,Home,D,2,2,Liverpool,1.2,2.6,42.0,Everton
+8,2020-10-25,Away,L,0,2,Southampton,0.4,0.7,46.0,Everton
+9,2020-11-01,Away,L,1,2,Newcastle Utd,1.5,2.9,61.0,Everton
+10,2020-11-07,Home,L,1,3,Manchester Utd,0.4,1.5,55.0,Everton
+11,2020-11-22,Away,W,3,2,Fulham,2.0,1.9,46.0,Everton
+12,2020-11-28,Home,L,0,1,Leeds United,1.2,2.9,41.0,Everton
+13,2020-12-05,Away,D,1,1,Burnley,2.2,0.8,58.0,Everton
+14,2020-12-12,Home,W,1,0,Chelsea,1.2,0.7,29.0,Everton
+15,2020-12-16,Away,W,2,0,Leicester City,1.4,0.8,39.0,Everton
+16,2020-12-19,Home,W,2,1,Arsenal,0.6,1.4,43.0,Everton
+18,2020-12-26,Away,W,1,0,Sheffield Utd,0.7,1.4,56.0,Everton
+19,2021-01-01,Home,L,0,1,West Ham,0.4,1.3,60.0,Everton
+21,2021-01-12,Away,W,2,1,Wolves,0.6,0.7,48.0,Everton
+23,2021-01-27,Home,D,1,1,Leicester City,0.5,1.2,35.0,Everton
+24,2021-01-30,Home,L,0,2,Newcastle Utd,0.8,1.7,60.0,Everton
+25,2021-02-03,Away,W,2,1,Leeds United,1.6,1.3,37.0,Everton
+26,2021-02-06,Away,D,3,3,Manchester Utd,1.5,1.8,39.0,Everton
+28,2021-02-14,Home,L,0,2,Fulham,0.3,2.5,50.0,Everton
+29,2021-02-17,Home,L,1,3,Manchester City,1.0,1.0,29.0,Everton
+30,2021-02-20,Away,W,2,0,Liverpool,1.6,1.4,29.0,Everton
+31,2021-03-01,Home,W,1,0,Southampton,1.2,0.6,47.0,Everton
+32,2021-03-04,Away,W,1,0,West Brom,1.0,1.0,51.0,Everton
+33,2021-03-08,Away,L,0,2,Chelsea,0.3,2.4,35.0,Everton
+34,2021-03-13,Home,L,1,2,Burnley,1.5,0.8,65.0,Everton
+36,2021-04-05,Home,D,1,1,Crystal Palace,2.5,0.7,48.0,Everton
+37,2021-04-12,Away,D,0,0,Brighton,0.4,1.2,45.0,Everton
+38,2021-04-16,Home,D,2,2,Tottenham,1.8,1.4,53.0,Everton
+39,2021-04-23,Away,W,1,0,Arsenal,0.5,0.8,41.0,Everton
+40,2021-05-01,Home,L,1,2,Aston Villa,1.0,1.6,47.0,Everton
+41,2021-05-09,Away,W,1,0,West Ham,1.5,1.3,32.0,Everton
+42,2021-05-13,Away,D,0,0,Aston Villa,1.0,0.6,42.0,Everton
+43,2021-05-16,Home,L,0,1,Sheffield Utd,1.4,1.2,62.0,Everton
+44,2021-05-19,Home,W,1,0,Wolves,0.7,0.3,41.0,Everton
+45,2021-05-23,Away,L,0,5,Manchester City,1.1,2.5,33.0,Everton

@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2022-08-05,Away,W,2,0,Crystal Palace,1.0,1.2,44,Arsenal
+1,2022-08-13,Home,W,4,2,Leicester City,2.7,0.5,50,Arsenal
+2,2022-08-20,Away,W,3,0,Bournemouth,1.3,0.3,57,Arsenal
+3,2022-08-27,Home,W,2,1,Fulham,2.6,0.8,71,Arsenal
+4,2022-08-31,Home,W,2,1,Aston Villa,2.4,0.4,59,Arsenal
+5,2022-09-04,Away,L,1,3,Manchester Utd,1.3,1.5,60,Arsenal
+7,2022-09-18,Away,W,3,0,Brentford,1.5,0.5,63,Arsenal
+8,2022-10-01,Home,W,3,1,Tottenham,2.4,1.6,64,Arsenal
+10,2022-10-09,Home,W,3,2,Liverpool,2.7,1.1,43,Arsenal
+12,2022-10-16,Away,W,1,0,Leeds United,0.5,1.8,53,Arsenal
+14,2022-10-23,Away,D,1,1,Southampton,1.0,0.7,59,Arsenal
+16,2022-10-30,Home,W,5,0,Nott'ham Forest,2.3,0.4,69,Arsenal
+18,2022-11-06,Away,W,1,0,Chelsea,2.1,0.3,55,Arsenal
+20,2022-11-12,Away,W,2,0,Wolves,2.1,0.7,62,Arsenal
+21,2022-12-26,Home,W,3,1,West Ham,2.1,1.0,66,Arsenal
+22,2022-12-31,Away,W,4,2,Brighton,2.9,1.2,32,Arsenal
+23,2023-01-03,Home,D,0,0,Newcastle Utd,1.1,1.0,66,Arsenal
+25,2023-01-15,Away,W,2,0,Tottenham,1.8,1.6,49,Arsenal
+26,2023-01-22,Home,W,3,2,Manchester Utd,3.1,0.4,57,Arsenal
+28,2023-02-04,Away,L,0,1,Everton,0.9,1.7,70,Arsenal
+29,2023-02-11,Home,D,1,1,Brentford,1.6,2.0,69,Arsenal
+30,2023-02-15,Home,L,1,3,Manchester City,1.6,1.7,63,Arsenal
+31,2023-02-18,Away,W,4,2,Aston Villa,3.0,0.5,67,Arsenal
+32,2023-02-25,Away,W,1,0,Leicester City,0.7,0.0,65,Arsenal
+33,2023-03-01,Home,W,4,0,Everton,2.7,1.2,73,Arsenal
+34,2023-03-04,Home,W,3,2,Bournemouth,2.6,1.3,79,Arsenal
+36,2023-03-12,Away,,,,Fulham,,,,Arsenal
+38,2023-03-19,Home,,,,Crystal Palace,,,,Arsenal
+39,2023-04-01,Home,,,,Leeds United,,,,Arsenal
+40,2023-04-09,Away,,,,Liverpool,,,,Arsenal
+41,2023-04-16,Away,,,,West Ham,,,,Arsenal
+42,2023-04-21,Home,,,,Southampton,,,,Arsenal
+43,2023-04-26,Away,,,,Manchester City,,,,Arsenal
+44,2023-04-29,Home,,,,Chelsea,,,,Arsenal
+45,2023-05-06,Away,,,,Newcastle Utd,,,,Arsenal
+46,2023-05-13,Home,,,,Brighton,,,,Arsenal
+47,2023-05-20,Away,,,,Nott'ham Forest,,,,Arsenal
+48,2023-05-28,Home,,,,Wolves,,,,Arsenal

@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+1,2020-09-12,Away,W,3,0,Fulham,1.9,0.1,54.0,Arsenal
+2,2020-09-19,Home,W,2,1,West Ham,1.1,2.0,62.0,Arsenal
+4,2020-09-28,Away,L,1,3,Liverpool,1.3,2.7,34.0,Arsenal
+6,2020-10-04,Home,W,2,1,Sheffield Utd,0.6,0.2,64.0,Arsenal
+7,2020-10-17,Away,L,0,1,Manchester City,0.9,1.3,42.0,Arsenal
+9,2020-10-25,Home,L,0,1,Leicester City,0.7,0.7,56.0,Arsenal
+11,2020-11-01,Away,W,1,0,Manchester Utd,1.0,0.4,46.0,Arsenal
+13,2020-11-08,Home,L,0,3,Aston Villa,1.5,1.8,59.0,Arsenal
+14,2020-11-22,Away,D,0,0,Leeds United,0.9,1.8,34.0,Arsenal
+16,2020-11-29,Home,L,1,2,Wolves,1.5,1.8,56.0,Arsenal
+18,2020-12-06,Away,L,0,2,Tottenham,0.6,0.3,69.0,Arsenal
+20,2020-12-13,Home,L,0,1,Burnley,1.6,1.4,65.0,Arsenal
+21,2020-12-16,Home,D,1,1,Southampton,0.6,1.2,36.0,Arsenal
+22,2020-12-19,Away,L,1,2,Everton,1.4,0.6,57.0,Arsenal
+24,2020-12-26,Home,W,3,1,Chelsea,2.0,2.6,40.0,Arsenal
+25,2020-12-29,Away,W,1,0,Brighton,1.1,0.8,50.0,Arsenal
+26,2021-01-02,Away,W,4,0,West Brom,3.7,1.0,61.0,Arsenal
+28,2021-01-14,Home,D,0,0,Crystal Palace,0.4,0.8,67.0,Arsenal
+29,2021-01-18,Home,W,3,0,Newcastle Utd,2.4,0.2,66.0,Arsenal
+31,2021-01-26,Away,W,3,1,Southampton,2.2,0.8,42.0,Arsenal
+32,2021-01-30,Home,D,0,0,Manchester Utd,0.9,1.6,43.0,Arsenal
+33,2021-02-02,Away,L,1,2,Wolves,0.8,1.5,45.0,Arsenal
+34,2021-02-06,Away,L,0,1,Aston Villa,0.8,1.2,65.0,Arsenal
+35,2021-02-14,Home,W,4,2,Leeds United,2.3,0.9,46.0,Arsenal
+37,2021-02-21,Home,L,0,1,Manchester City,0.3,1.8,45.0,Arsenal
+39,2021-02-28,Away,W,3,1,Leicester City,2.3,0.4,56.0,Arsenal
+40,2021-03-06,Away,D,1,1,Burnley,2.5,1.1,59.0,Arsenal
+42,2021-03-14,Home,W,2,1,Tottenham,1.7,0.4,52.0,Arsenal
+44,2021-03-21,Away,D,3,3,West Ham,1.4,2.4,62.0,Arsenal
+45,2021-04-03,Home,L,0,3,Liverpool,0.1,2.4,36.0,Arsenal
+47,2021-04-11,Away,W,3,0,Sheffield Utd,1.7,0.3,55.0,Arsenal
+49,2021-04-18,Home,D,1,1,Fulham,2.7,0.9,69.0,Arsenal
+50,2021-04-23,Home,L,0,1,Everton,0.8,0.5,59.0,Arsenal
+52,2021-05-02,Away,W,2,0,Newcastle Utd,2.0,0.3,61.0,Arsenal
+54,2021-05-09,Home,W,3,1,West Brom,0.9,1.8,65.0,Arsenal
+55,2021-05-12,Away,W,1,0,Chelsea,0.6,1.8,33.0,Arsenal
+56,2021-05-19,Away,W,3,1,Crystal Palace,1.8,1.0,68.0,Arsenal
+57,2021-05-23,Home,W,2,0,Brighton,0.8,0.2,54.0,Arsenal

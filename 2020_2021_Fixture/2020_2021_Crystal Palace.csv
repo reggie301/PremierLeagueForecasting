@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2020-09-12,Home,W,1,0,Southampton,1.1,0.9,31.0,Crystal Palace
+2,2020-09-19,Away,W,3,1,Manchester Utd,1.6,1.2,25.0,Crystal Palace
+3,2020-09-26,Home,L,1,2,Everton,0.4,1.9,42.0,Crystal Palace
+4,2020-10-03,Away,L,0,4,Chelsea,0.2,2.7,30.0,Crystal Palace
+5,2020-10-18,Home,D,1,1,Brighton,0.8,1.7,34.0,Crystal Palace
+6,2020-10-24,Away,W,2,1,Fulham,2.5,1.1,36.0,Crystal Palace
+7,2020-10-30,Away,L,0,2,Wolves,0.7,1.3,55.0,Crystal Palace
+8,2020-11-07,Home,W,4,1,Leeds United,0.9,0.8,36.0,Crystal Palace
+9,2020-11-23,Away,L,0,1,Burnley,1.5,1.5,54.0,Crystal Palace
+10,2020-11-27,Home,L,0,2,Newcastle Utd,0.6,1.3,57.0,Crystal Palace
+11,2020-12-06,Away,W,5,1,West Brom,1.6,0.7,50.0,Crystal Palace
+12,2020-12-13,Home,D,1,1,Tottenham,1.6,0.9,44.0,Crystal Palace
+13,2020-12-16,Away,D,1,1,West Ham,1.1,0.4,48.0,Crystal Palace
+14,2020-12-19,Home,L,0,7,Liverpool,0.3,2.5,36.0,Crystal Palace
+15,2020-12-26,Away,L,0,3,Aston Villa,0.9,3.9,61.0,Crystal Palace
+16,2020-12-28,Home,D,1,1,Leicester City,0.5,1.9,34.0,Crystal Palace
+17,2021-01-02,Home,W,2,0,Sheffield Utd,0.6,0.4,44.0,Crystal Palace
+19,2021-01-14,Away,D,0,0,Arsenal,0.8,0.4,33.0,Crystal Palace
+20,2021-01-17,Away,L,0,4,Manchester City,0.1,0.7,29.0,Crystal Palace
+21,2021-01-26,Home,L,2,3,West Ham,0.7,2.8,54.0,Crystal Palace
+22,2021-01-30,Home,W,1,0,Wolves,1.4,0.4,48.0,Crystal Palace
+23,2021-02-02,Away,W,2,1,Newcastle Utd,0.7,1.9,39.0,Crystal Palace
+24,2021-02-08,Away,L,0,2,Leeds United,0.4,1.9,33.0,Crystal Palace
+25,2021-02-13,Home,L,0,3,Burnley,0.5,1.4,54.0,Crystal Palace
+26,2021-02-22,Away,W,2,1,Brighton,0.2,2.4,26.0,Crystal Palace
+27,2021-02-28,Home,D,0,0,Fulham,0.1,1.4,40.0,Crystal Palace
+28,2021-03-03,Home,D,0,0,Manchester Utd,0.9,0.9,37.0,Crystal Palace
+29,2021-03-07,Away,L,1,4,Tottenham,0.5,2.7,37.0,Crystal Palace
+30,2021-03-13,Home,W,1,0,West Brom,1.2,0.8,45.0,Crystal Palace
+31,2021-04-05,Away,D,1,1,Everton,0.7,2.5,52.0,Crystal Palace
+32,2021-04-10,Home,L,1,4,Chelsea,0.4,3.1,36.0,Crystal Palace
+33,2021-04-26,Away,L,1,2,Leicester City,0.7,1.5,34.0,Crystal Palace
+34,2021-05-01,Home,L,0,2,Manchester City,0.9,1.7,32.0,Crystal Palace
+35,2021-05-08,Away,W,2,0,Sheffield Utd,2.0,0.7,50.0,Crystal Palace
+36,2021-05-11,Away,L,1,3,Southampton,1.5,1.2,38.0,Crystal Palace
+37,2021-05-16,Home,W,3,2,Aston Villa,1.9,1.4,45.0,Crystal Palace
+38,2021-05-19,Home,L,1,3,Arsenal,1.0,1.8,32.0,Crystal Palace
+39,2021-05-23,Away,L,0,2,Liverpool,0.6,1.6,31.0,Crystal Palace

@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2021-08-14,Away,L,0,1,Leicester City,1.3,0.5,44.0,Wolves
+1,2021-08-22,Home,L,0,1,Tottenham,1.7,1.7,58.0,Wolves
+3,2021-08-29,Home,L,0,1,Manchester Utd,2.1,0.6,44.0,Wolves
+4,2021-09-11,Away,W,2,0,Watford,2.2,0.2,55.0,Wolves
+5,2021-09-18,Home,L,0,2,Brentford,0.6,2.5,62.0,Wolves
+7,2021-09-26,Away,W,1,0,Southampton,1.0,1.0,43.0,Wolves
+8,2021-10-02,Home,W,2,1,Newcastle Utd,1.0,0.6,52.0,Wolves
+9,2021-10-16,Away,W,3,2,Aston Villa,2.0,1.0,52.0,Wolves
+10,2021-10-23,Away,D,1,1,Leeds United,0.9,1.6,38.0,Wolves
+11,2021-11-01,Home,W,2,1,Everton,1.7,1.5,61.0,Wolves
+12,2021-11-06,Away,L,0,2,Crystal Palace,0.3,1.9,40.0,Wolves
+13,2021-11-20,Home,W,1,0,West Ham,1.4,0.4,52.0,Wolves
+14,2021-11-27,Away,D,0,0,Norwich City,0.3,1.6,57.0,Wolves
+15,2021-12-01,Home,D,0,0,Burnley,0.7,0.2,65.0,Wolves
+16,2021-12-04,Home,L,0,1,Liverpool,0.1,2.7,34.0,Wolves
+17,2021-12-11,Away,L,0,1,Manchester City,0.2,3.2,29.0,Wolves
+18,2021-12-15,Away,W,1,0,Brighton,1.0,1.2,41.0,Wolves
+19,2021-12-19,Home,D,0,0,Chelsea,0.2,0.9,37.0,Wolves
+20,2022-01-03,Away,W,1,0,Manchester Utd,0.7,0.8,49.0,Wolves
+22,2022-01-15,Home,W,3,1,Southampton,2.5,0.8,43.0,Wolves
+23,2022-01-22,Away,W,2,1,Brentford,0.2,1.1,50.0,Wolves
+25,2022-02-10,Home,L,0,1,Arsenal,0.8,1.8,58.0,Wolves
+26,2022-02-13,Away,W,2,0,Tottenham,1.3,1.2,42.0,Wolves
+27,2022-02-20,Home,W,2,1,Leicester City,0.5,1.7,37.0,Wolves
+28,2022-02-24,Away,L,1,2,Arsenal,1.0,3.1,44.0,Wolves
+29,2022-02-27,Away,L,0,1,West Ham,0.7,1.8,61.0,Wolves
+30,2022-03-05,Home,L,0,2,Crystal Palace,0.7,2.7,63.0,Wolves
+31,2022-03-10,Home,W,4,0,Watford,0.7,0.6,66.0,Wolves
+32,2022-03-13,Away,W,1,0,Everton,0.8,0.4,61.0,Wolves
+33,2022-03-18,Home,L,2,3,Leeds United,1.2,2.0,48.0,Wolves
+34,2022-04-02,Home,W,2,1,Aston Villa,1.3,2.1,49.0,Wolves
+35,2022-04-08,Away,L,0,1,Newcastle Utd,0.4,1.5,58.0,Wolves
+36,2022-04-24,Away,L,0,1,Burnley,0.6,1.4,64.0,Wolves
+37,2022-04-30,Home,L,0,3,Brighton,0.7,2.6,49.0,Wolves
+38,2022-05-07,Away,D,2,2,Chelsea,2.0,1.7,41.0,Wolves
+39,2022-05-11,Home,L,1,5,Manchester City,0.5,2.3,34.0,Wolves
+40,2022-05-15,Home,D,1,1,Norwich City,0.9,1.1,64.0,Wolves
+41,2022-05-22,Away,L,1,3,Liverpool,1.3,2.7,37.0,Wolves

@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2020-09-12,Away,L,0,1,Crystal Palace,0.9,1.1,69.0,Southampton
+2,2020-09-20,Home,L,2,5,Tottenham,2.0,2.1,51.0,Southampton
+3,2020-09-26,Away,W,1,0,Burnley,0.6,0.5,47.0,Southampton
+4,2020-10-04,Home,W,2,0,West Brom,1.2,0.2,62.0,Southampton
+5,2020-10-17,Away,D,3,3,Chelsea,1.9,1.8,47.0,Southampton
+6,2020-10-25,Home,W,2,0,Everton,0.7,0.4,54.0,Southampton
+7,2020-11-01,Away,W,4,3,Aston Villa,0.7,1.9,44.0,Southampton
+8,2020-11-06,Home,W,2,0,Newcastle Utd,0.7,0.3,61.0,Southampton
+9,2020-11-23,Away,D,1,1,Wolves,1.0,1.5,54.0,Southampton
+10,2020-11-29,Home,L,2,3,Manchester Utd,0.5,2.1,50.0,Southampton
+11,2020-12-07,Away,W,2,1,Brighton,1.4,1.9,52.0,Southampton
+12,2020-12-13,Home,W,3,0,Sheffield Utd,2.0,0.3,67.0,Southampton
+13,2020-12-16,Away,D,1,1,Arsenal,1.2,0.6,64.0,Southampton
+14,2020-12-19,Home,L,0,1,Manchester City,0.7,0.9,48.0,Southampton
+15,2020-12-26,Away,D,0,0,Fulham,0.2,0.7,53.0,Southampton
+16,2020-12-29,Home,D,0,0,West Ham,0.6,1.2,62.0,Southampton
+17,2021-01-04,Home,W,1,0,Liverpool,0.4,1.5,34.0,Southampton
+18,2021-01-16,Away,L,0,2,Leicester City,0.6,2.2,53.0,Southampton
+21,2021-01-26,Home,L,1,3,Arsenal,0.8,2.2,58.0,Southampton
+22,2021-01-30,Home,L,0,1,Aston Villa,1.9,0.6,59.0,Southampton
+23,2021-02-02,Away,L,0,9,Manchester Utd,0.5,4.7,26.0,Southampton
+24,2021-02-06,Away,L,2,3,Newcastle Utd,1.3,0.7,73.0,Southampton
+26,2021-02-14,Home,L,1,2,Wolves,0.8,1.1,51.0,Southampton
+27,2021-02-20,Home,D,1,1,Chelsea,0.6,1.2,30.0,Southampton
+28,2021-02-23,Away,L,0,3,Leeds United,0.9,1.3,54.0,Southampton
+29,2021-03-01,Away,L,0,1,Everton,0.6,1.2,53.0,Southampton
+30,2021-03-06,Away,W,2,0,Sheffield Utd,1.9,0.7,49.0,Southampton
+31,2021-03-10,Away,L,2,5,Manchester City,1.6,2.6,42.0,Southampton
+32,2021-03-14,Home,L,1,2,Brighton,0.6,0.8,59.0,Southampton
+34,2021-04-04,Home,W,3,2,Burnley,2.2,1.5,53.0,Southampton
+35,2021-04-12,Away,L,0,3,West Brom,1.5,3.0,60.0,Southampton
+37,2021-04-21,Away,L,1,2,Tottenham,0.8,1.4,38.0,Southampton
+38,2021-04-30,Home,D,1,1,Leicester City,0.9,1.9,30.0,Southampton
+39,2021-05-08,Away,L,0,2,Liverpool,1.1,1.7,46.0,Southampton
+40,2021-05-11,Home,W,3,1,Crystal Palace,1.2,1.5,62.0,Southampton
+41,2021-05-15,Home,W,3,1,Fulham,1.6,0.8,47.0,Southampton
+42,2021-05-18,Home,L,0,2,Leeds United,1.6,1.7,51.0,Southampton
+43,2021-05-23,Away,L,0,3,West Ham,1.5,1.3,62.0,Southampton

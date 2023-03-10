@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2020-09-13,Home,L,0,3,Leicester City,0.4,2.8,36.0,West Brom
+2,2020-09-19,Away,L,2,5,Everton,0.3,3.9,29.0,West Brom
+4,2020-09-26,Home,D,3,3,Chelsea,0.6,2.0,25.0,West Brom
+5,2020-10-04,Away,L,0,2,Southampton,0.2,1.2,38.0,West Brom
+6,2020-10-19,Home,D,0,0,Burnley,0.8,1.1,57.0,West Brom
+7,2020-10-26,Away,D,1,1,Brighton,0.4,0.5,50.0,West Brom
+8,2020-11-02,Away,L,0,2,Fulham,0.5,1.5,53.0,West Brom
+9,2020-11-08,Home,L,0,1,Tottenham,0.8,1.9,42.0,West Brom
+10,2020-11-21,Away,L,0,1,Manchester Utd,0.6,2.4,37.0,West Brom
+11,2020-11-28,Home,W,1,0,Sheffield Utd,1.2,2.9,49.0,West Brom
+12,2020-12-06,Home,L,1,5,Crystal Palace,0.7,1.6,50.0,West Brom
+13,2020-12-12,Away,L,1,2,Newcastle Utd,0.6,0.8,54.0,West Brom
+14,2020-12-15,Away,D,1,1,Manchester City,0.4,2.2,23.0,West Brom
+15,2020-12-20,Home,L,0,3,Aston Villa,0.0,2.4,33.0,West Brom
+16,2020-12-27,Away,D,1,1,Liverpool,0.6,1.5,23.0,West Brom
+17,2020-12-29,Home,L,0,5,Leeds United,0.5,1.2,25.0,West Brom
+18,2021-01-02,Home,L,0,4,Arsenal,1.0,3.7,39.0,West Brom
+20,2021-01-16,Away,W,3,2,Wolves,2.4,1.5,33.0,West Brom
+21,2021-01-19,Away,L,1,2,West Ham,0.5,2.0,41.0,West Brom
+22,2021-01-26,Home,L,0,5,Manchester City,0.5,1.8,23.0,West Brom
+23,2021-01-30,Home,D,2,2,Fulham,1.0,1.3,38.0,West Brom
+24,2021-02-02,Away,L,1,2,Sheffield Utd,1.6,1.3,32.0,West Brom
+25,2021-02-07,Away,L,0,2,Tottenham,0.6,1.5,35.0,West Brom
+26,2021-02-14,Home,D,1,1,Manchester Utd,1.0,0.5,27.0,West Brom
+27,2021-02-20,Away,D,0,0,Burnley,1.6,0.5,38.0,West Brom
+28,2021-02-27,Home,W,1,0,Brighton,0.8,2.9,32.0,West Brom
+29,2021-03-04,Home,L,0,1,Everton,1.0,1.0,49.0,West Brom
+30,2021-03-07,Home,D,0,0,Newcastle Utd,2.0,0.5,53.0,West Brom
+31,2021-03-13,Away,L,0,1,Crystal Palace,0.8,1.2,55.0,West Brom
+32,2021-04-03,Away,W,5,2,Chelsea,1.6,2.1,35.0,West Brom
+33,2021-04-12,Home,W,3,0,Southampton,3.0,1.5,40.0,West Brom
+34,2021-04-22,Away,L,0,3,Leicester City,0.5,2.1,28.0,West Brom
+35,2021-04-25,Away,D,2,2,Aston Villa,1.5,3.2,30.0,West Brom
+36,2021-05-03,Home,D,1,1,Wolves,1.1,1.0,43.0,West Brom
+37,2021-05-09,Away,L,1,3,Arsenal,1.8,0.9,35.0,West Brom
+38,2021-05-16,Home,L,1,2,Liverpool,1.0,1.9,24.0,West Brom
+39,2021-05-19,Home,L,1,3,West Ham,1.1,3.4,52.0,West Brom
+40,2021-05-23,Away,L,1,3,Leeds United,1.0,2.3,36.0,West Brom

@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2019-08-10,Away,L,1,3,Tottenham,0.7,2.4,30.0,Aston Villa
+1,2019-08-17,Home,L,1,2,Bournemouth,2.0,1.6,63.0,Aston Villa
+2,2019-08-23,Home,W,2,0,Everton,1.0,1.3,36.0,Aston Villa
+4,2019-08-31,Away,L,0,1,Crystal Palace,0.4,1.4,48.0,Aston Villa
+5,2019-09-16,Home,D,0,0,West Ham,1.3,0.6,46.0,Aston Villa
+6,2019-09-22,Away,L,2,3,Arsenal,1.5,2.4,42.0,Aston Villa
+8,2019-09-28,Home,D,2,2,Burnley,1.0,1.5,60.0,Aston Villa
+9,2019-10-05,Away,W,5,1,Norwich City,3.0,2.6,43.0,Aston Villa
+10,2019-10-19,Home,W,2,1,Brighton,3.0,1.2,49.0,Aston Villa
+11,2019-10-26,Away,L,0,3,Manchester City,1.0,2.9,37.0,Aston Villa
+13,2019-11-02,Home,L,1,2,Liverpool,0.4,2.4,27.0,Aston Villa
+14,2019-11-10,Away,L,1,2,Wolves,0.6,2.4,50.0,Aston Villa
+15,2019-11-25,Home,W,2,0,Newcastle Utd,2.3,0.6,61.0,Aston Villa
+16,2019-12-01,Away,D,2,2,Manchester Utd,1.2,1.7,38.0,Aston Villa
+17,2019-12-04,Away,L,1,2,Chelsea,1.0,1.8,36.0,Aston Villa
+18,2019-12-08,Home,L,1,4,Leicester City,1.2,4.6,41.0,Aston Villa
+19,2019-12-14,Away,L,0,2,Sheffield Utd,1.1,1.7,44.0,Aston Villa
+21,2019-12-21,Home,L,1,3,Southampton,1.1,2.8,56.0,Aston Villa
+22,2019-12-26,Home,W,1,0,Norwich City,0.6,1.2,43.0,Aston Villa
+23,2019-12-28,Away,L,0,3,Watford,0.6,2.8,51.0,Aston Villa
+24,2020-01-01,Away,W,2,1,Burnley,1.3,2.2,38.0,Aston Villa
+27,2020-01-12,Home,L,1,6,Manchester City,1.1,2.8,30.0,Aston Villa
+28,2020-01-18,Away,D,1,1,Brighton,0.6,1.1,45.0,Aston Villa
+29,2020-01-21,Home,W,2,1,Watford,1.3,1.8,64.0,Aston Villa
+31,2020-02-01,Away,L,1,2,Bournemouth,1.7,2.2,60.0,Aston Villa
+32,2020-02-16,Home,L,2,3,Tottenham,1.8,3.4,55.0,Aston Villa
+33,2020-02-22,Away,L,0,2,Southampton,0.5,2.6,54.0,Aston Villa
+35,2020-03-09,Away,L,0,4,Leicester City,0.5,2.1,36.0,Aston Villa
+36,2020-06-17,Home,D,0,0,Sheffield Utd,1.4,0.3,46.0,Aston Villa
+37,2020-06-21,Home,L,1,2,Chelsea,1.0,1.1,27.0,Aston Villa
+38,2020-06-24,Away,D,1,1,Newcastle Utd,1.6,0.9,48.0,Aston Villa
+39,2020-06-27,Home,L,0,1,Wolves,0.6,0.7,48.0,Aston Villa
+40,2020-07-05,Away,L,0,2,Liverpool,0.7,0.7,30.0,Aston Villa
+41,2020-07-09,Home,L,0,3,Manchester Utd,0.5,2.3,34.0,Aston Villa
+42,2020-07-12,Home,W,2,0,Crystal Palace,1.7,1.2,45.0,Aston Villa
+43,2020-07-16,Away,D,1,1,Everton,1.3,0.9,46.0,Aston Villa
+44,2020-07-21,Home,W,1,0,Arsenal,0.6,0.6,31.0,Aston Villa
+45,2020-07-26,Away,D,1,1,West Ham,1.0,0.9,38.0,Aston Villa

@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2022-08-06,Home,W,4,1,Southampton,1.5,0.5,58,Tottenham
+1,2022-08-14,Away,D,2,2,Chelsea,1.0,1.6,37,Tottenham
+2,2022-08-20,Home,W,1,0,Wolves,1.7,0.7,50,Tottenham
+3,2022-08-28,Away,W,2,0,Nott'ham Forest,2.4,0.9,45,Tottenham
+4,2022-08-31,Away,D,1,1,West Ham,0.6,1.2,61,Tottenham
+5,2022-09-03,Home,W,2,1,Fulham,2.9,0.7,52,Tottenham
+8,2022-09-17,Home,W,6,2,Leicester City,2.2,1.8,44,Tottenham
+9,2022-10-01,Away,L,1,3,Arsenal,1.6,2.4,36,Tottenham
+11,2022-10-08,Away,W,1,0,Brighton,0.8,0.7,41,Tottenham
+13,2022-10-15,Home,W,2,0,Everton,2.2,0.4,62,Tottenham
+14,2022-10-19,Away,L,0,2,Manchester Utd,0.6,1.5,48,Tottenham
+15,2022-10-23,Home,L,1,2,Newcastle Utd,1.6,1.2,53,Tottenham
+17,2022-10-29,Away,W,3,2,Bournemouth,2.0,0.5,69,Tottenham
+19,2022-11-06,Home,L,1,2,Liverpool,1.2,1.2,47,Tottenham
+21,2022-11-12,Home,W,4,3,Leeds United,1.8,1.1,55,Tottenham
+22,2022-12-26,Away,D,2,2,Brentford,1.1,2.0,61,Tottenham
+23,2023-01-01,Home,L,0,2,Aston Villa,0.7,1.0,59,Tottenham
+24,2023-01-04,Away,W,4,0,Crystal Palace,1.4,0.8,53,Tottenham
+26,2023-01-15,Home,L,0,2,Arsenal,1.6,1.8,51,Tottenham
+27,2023-01-19,Away,L,2,4,Manchester City,0.8,2.3,42,Tottenham
+28,2023-01-23,Away,W,1,0,Fulham,0.9,1.0,46,Tottenham
+30,2023-02-05,Home,W,1,0,Manchester City,1.4,1.3,36,Tottenham
+31,2023-02-11,Away,L,1,4,Leicester City,1.2,1.5,50,Tottenham
+33,2023-02-19,Home,W,2,0,West Ham,1.5,0.5,57,Tottenham
+34,2023-02-26,Home,W,2,0,Chelsea,0.7,0.4,41,Tottenham
+36,2023-03-04,Away,L,0,1,Wolves,1.3,0.4,54,Tottenham
+38,2023-03-11,Home,,,,Nott'ham Forest,,,,Tottenham
+39,2023-03-18,Away,,,,Southampton,,,,Tottenham
+40,2023-04-03,Away,,,,Everton,,,,Tottenham
+41,2023-04-08,Home,,,,Brighton,,,,Tottenham
+42,2023-04-15,Home,,,,Bournemouth,,,,Tottenham
+43,2023-04-23,Away,,,,Newcastle Utd,,,,Tottenham
+44,2023-04-27,Home,,,,Manchester Utd,,,,Tottenham
+45,2023-04-30,Away,,,,Liverpool,,,,Tottenham
+46,2023-05-06,Home,,,,Crystal Palace,,,,Tottenham
+47,2023-05-13,Away,,,,Aston Villa,,,,Tottenham
+48,2023-05-20,Home,,,,Brentford,,,,Tottenham
+49,2023-05-28,Away,,,,Leeds United,,,,Tottenham

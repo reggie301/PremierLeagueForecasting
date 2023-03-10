@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2022-08-07,Home,L,0,2,Manchester City,0.5,2.2,25,West Ham
+1,2022-08-14,Away,L,0,1,Nott'ham Forest,2.1,1.3,57,West Ham
+3,2022-08-21,Home,L,0,2,Brighton,0.8,1.7,50,West Ham
+5,2022-08-28,Away,W,1,0,Aston Villa,0.6,0.5,42,West Ham
+6,2022-08-31,Home,D,1,1,Tottenham,1.2,0.6,39,West Ham
+7,2022-09-03,Away,L,1,2,Chelsea,1.1,0.9,33,West Ham
+10,2022-09-18,Away,L,0,1,Everton,1.0,0.4,47,West Ham
+11,2022-10-01,Home,W,2,0,Wolves,0.9,0.7,39,West Ham
+13,2022-10-09,Home,W,3,1,Fulham,2.4,0.7,50,West Ham
+15,2022-10-16,Away,D,1,1,Southampton,1.7,0.5,61,West Ham
+16,2022-10-19,Away,L,0,1,Liverpool,1.7,1.7,46,West Ham
+17,2022-10-24,Home,W,2,0,Bournemouth,1.9,0.4,55,West Ham
+19,2022-10-30,Away,L,0,1,Manchester Utd,1.1,1.2,47,West Ham
+21,2022-11-06,Home,L,1,2,Crystal Palace,0.3,1.0,42,West Ham
+23,2022-11-12,Home,L,0,2,Leicester City,1.4,1.8,54,West Ham
+24,2022-12-26,Away,L,1,3,Arsenal,1.0,2.1,34,West Ham
+25,2022-12-30,Home,L,0,2,Brentford,1.3,1.6,63,West Ham
+26,2023-01-04,Away,D,2,2,Leeds United,1.4,1.6,38,West Ham
+28,2023-01-14,Away,L,0,1,Wolves,1.1,0.9,42,West Ham
+29,2023-01-21,Home,W,2,0,Everton,2.2,0.5,33,West Ham
+31,2023-02-04,Away,D,1,1,Newcastle Utd,1.0,1.0,38,West Ham
+32,2023-02-11,Home,D,1,1,Chelsea,1.2,1.2,29,West Ham
+33,2023-02-19,Away,L,0,2,Tottenham,0.5,1.5,43,West Ham
+34,2023-02-25,Home,W,4,0,Nott'ham Forest,2.7,0.4,49,West Ham
+36,2023-03-04,Away,L,0,4,Brighton,0.3,3.5,35,West Ham
+38,2023-03-12,Home,,,,Aston Villa,,,,West Ham
+40,2023-03-19,Away,,,,Manchester City,,,,West Ham
+41,2023-04-02,Home,,,,Southampton,,,,West Ham
+42,2023-04-05,Home,,,,Newcastle Utd,,,,West Ham
+43,2023-04-08,Away,,,,Fulham,,,,West Ham
+44,2023-04-16,Home,,,,Arsenal,,,,West Ham
+45,2023-04-22,Away,,,,Bournemouth,,,,West Ham
+46,2023-04-26,Home,,,,Liverpool,,,,West Ham
+47,2023-04-29,Away,,,,Crystal Palace,,,,West Ham
+48,2023-05-06,Home,,,,Manchester Utd,,,,West Ham
+49,2023-05-13,Away,,,,Brentford,,,,West Ham
+50,2023-05-20,Home,,,,Leeds United,,,,West Ham
+51,2023-05-28,Away,,,,Leicester City,,,,West Ham

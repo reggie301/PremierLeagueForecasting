@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2022-08-06,Home,W,2,0,Aston Villa,0.6,0.7,35,Bournemouth
+1,2022-08-13,Away,L,0,4,Manchester City,0.1,1.7,33,Bournemouth
+2,2022-08-20,Home,L,0,3,Arsenal,0.3,1.3,43,Bournemouth
+4,2022-08-27,Away,L,0,9,Liverpool,0.3,3.3,31,Bournemouth
+5,2022-08-31,Home,D,0,0,Wolves,0.4,1.5,35,Bournemouth
+6,2022-09-03,Away,W,3,2,Nott'ham Forest,0.8,1.9,48,Bournemouth
+7,2022-09-17,Away,D,1,1,Newcastle Utd,0.7,1.9,28,Bournemouth
+8,2022-10-01,Home,D,0,0,Brentford,0.4,0.9,42,Bournemouth
+9,2022-10-08,Home,W,2,1,Leicester City,1.1,1.0,45,Bournemouth
+10,2022-10-15,Away,D,2,2,Fulham,1.0,2.1,31,Bournemouth
+11,2022-10-19,Home,L,0,1,Southampton,1.0,1.0,54,Bournemouth
+12,2022-10-24,Away,L,0,2,West Ham,0.4,1.9,45,Bournemouth
+13,2022-10-29,Home,L,2,3,Tottenham,0.5,2.0,31,Bournemouth
+14,2022-11-05,Away,L,3,4,Leeds United,1.5,2.2,40,Bournemouth
+16,2022-11-12,Home,W,3,0,Everton,2.4,0.8,36,Bournemouth
+18,2022-12-27,Away,L,0,2,Chelsea,0.5,1.8,40,Bournemouth
+19,2022-12-31,Home,L,0,2,Crystal Palace,0.6,1.6,59,Bournemouth
+20,2023-01-03,Away,L,0,3,Manchester Utd,0.6,2.2,42,Bournemouth
+22,2023-01-14,Away,L,0,2,Brentford,0.6,1.4,50,Bournemouth
+23,2023-01-21,Home,D,1,1,Nott'ham Forest,1.4,1.9,43,Bournemouth
+24,2023-02-04,Away,L,0,1,Brighton,1.1,2.2,29,Bournemouth
+25,2023-02-11,Home,D,1,1,Newcastle Utd,1.5,1.3,34,Bournemouth
+26,2023-02-18,Away,W,1,0,Wolves,1.0,1.2,33,Bournemouth
+27,2023-02-25,Home,L,1,4,Manchester City,1.0,2.3,34,Bournemouth
+28,2023-03-04,Away,L,2,3,Arsenal,1.3,2.6,21,Bournemouth
+29,2023-03-11,Home,,,,Liverpool,,,,Bournemouth
+30,2023-03-18,Away,,,,Aston Villa,,,,Bournemouth
+31,2023-04-01,Home,,,,Fulham,,,,Bournemouth
+32,2023-04-04,Home,,,,Brighton,,,,Bournemouth
+33,2023-04-08,Away,,,,Leicester City,,,,Bournemouth
+34,2023-04-15,Away,,,,Tottenham,,,,Bournemouth
+35,2023-04-22,Home,,,,West Ham,,,,Bournemouth
+36,2023-04-25,Away,,,,Southampton,,,,Bournemouth
+37,2023-04-29,Home,,,,Leeds United,,,,Bournemouth
+38,2023-05-06,Home,,,,Chelsea,,,,Bournemouth
+39,2023-05-13,Away,,,,Crystal Palace,,,,Bournemouth
+40,2023-05-20,Home,,,,Manchester Utd,,,,Bournemouth
+41,2023-05-28,Away,,,,Everton,,,,Bournemouth

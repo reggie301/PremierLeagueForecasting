@@ -1,0 +1,39 @@
+,Date,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Club
+0,2018-08-12,Home,D,0,0,Burnley,1.1,1.4,48.0,Southampton
+1,2018-08-18,Away,L,1,2,Everton,1.7,1.5,43.0,Southampton
+2,2018-08-25,Home,L,1,2,Leicester City,0.5,0.6,52.0,Southampton
+4,2018-09-01,Away,W,2,0,Crystal Palace,2.7,2.4,50.0,Southampton
+5,2018-09-17,Home,D,2,2,Brighton,2.0,1.4,51.0,Southampton
+6,2018-09-22,Away,L,0,3,Liverpool,0.3,1.7,39.0,Southampton
+7,2018-09-29,Away,L,0,2,Wolves,0.8,1.6,51.0,Southampton
+9,2018-10-07,Home,L,0,3,Chelsea,1.6,2.9,35.0,Southampton
+10,2018-10-20,Away,D,0,0,Bournemouth,0.5,0.9,42.0,Southampton
+11,2018-10-27,Home,D,0,0,Newcastle Utd,1.1,0.4,50.0,Southampton
+12,2018-11-04,Away,L,1,6,Manchester City,2.0,2.2,34.0,Southampton
+13,2018-11-10,Home,D,1,1,Watford,1.1,1.2,42.0,Southampton
+14,2018-11-24,Away,L,2,3,Fulham,1.3,1.3,62.0,Southampton
+16,2018-12-01,Home,D,2,2,Manchester Utd,0.7,1.1,40.0,Southampton
+17,2018-12-05,Away,L,1,3,Tottenham,1.7,1.6,48.0,Southampton
+18,2018-12-08,Away,L,0,1,Cardiff City,0.7,1.5,63.0,Southampton
+19,2018-12-16,Home,W,3,2,Arsenal,1.3,1.9,34.0,Southampton
+20,2018-12-22,Away,W,3,1,Huddersfield,2.5,0.8,38.0,Southampton
+21,2018-12-27,Home,L,1,2,West Ham,1.2,1.2,46.0,Southampton
+22,2018-12-30,Home,L,1,3,Manchester City,0.2,2.5,24.0,Southampton
+23,2019-01-02,Away,D,0,0,Chelsea,0.2,0.9,29.0,Southampton
+25,2019-01-12,Away,W,2,1,Leicester City,1.5,1.7,29.0,Southampton
+27,2019-01-19,Home,W,2,1,Everton,0.7,0.9,39.0,Southampton
+28,2019-01-30,Home,D,1,1,Crystal Palace,1.2,1.1,58.0,Southampton
+29,2019-02-02,Away,D,1,1,Burnley,0.7,2.4,45.0,Southampton
+30,2019-02-09,Home,L,1,2,Cardiff City,1.5,0.8,66.0,Southampton
+31,2019-02-24,Away,L,0,2,Arsenal,0.8,2.1,38.0,Southampton
+32,2019-02-27,Home,W,2,0,Fulham,1.3,0.8,41.0,Southampton
+33,2019-03-02,Away,L,2,3,Manchester Utd,0.4,2.2,36.0,Southampton
+34,2019-03-09,Home,W,2,1,Tottenham,2.1,1.3,37.0,Southampton
+35,2019-03-30,Away,W,1,0,Brighton,0.7,0.7,40.0,Southampton
+36,2019-04-05,Home,L,1,3,Liverpool,0.9,1.9,33.0,Southampton
+37,2019-04-13,Home,W,3,1,Wolves,2.9,0.8,31.0,Southampton
+38,2019-04-20,Away,L,1,3,Newcastle Utd,1.2,1.4,56.0,Southampton
+39,2019-04-23,Away,D,1,1,Watford,2.0,1.3,38.0,Southampton
+40,2019-04-27,Home,D,3,3,Bournemouth,2.5,2.3,44.0,Southampton
+41,2019-05-04,Away,L,0,3,West Ham,0.5,1.9,44.0,Southampton
+42,2019-05-12,Home,D,1,1,Huddersfield,0.6,0.7,53.0,Southampton
