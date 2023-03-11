@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import time
 import os
-from selenium import webdriver
 import pandas as pd
 from datetime import date
 import requests
@@ -21,10 +20,6 @@ current_matchweek = int(input('What is the current matchweek?'))
 
 url = r'https://projects.fivethirtyeight.com/soccer-predictions/premier-league/'
 
-driver = webdriver.Chrome()
-
-r = driver.get(url) # proxies=proxies
-time.sleep(2)
 
 date_dict = {'Sept':'Sep','March':'Mar','April':'Apr','June':'Jun','July':'Jul'}
   
@@ -45,7 +40,7 @@ if not isExist:
 
 match_date = date.today().strftime('%y%b%d')
 
-dfs = pd.read_html(driver.page_source)
+dfs = pd.read_html(url)
 a = dfs[0].replace(' ',':')
 a.columns = a.columns.droplevel()
 a = a[['team','spi','off.','def.']]
@@ -60,7 +55,6 @@ a = a.rename(columns = {'off.':'off','def.':'def'})
 
 a.to_csv(fr'{full_path}\{current_season}_{current_season+1}_{match_date}.csv')
 
-driver.close()
 
 ## FIXTURE SCRAPER FROM FBREF
 
@@ -409,7 +403,7 @@ for fixtures in res:
         b['Date'] = pd.to_datetime(b['Date'])
         b['Club'] = b['Club'].map(three_let_dict)
         b['Opponent'] = b['Opponent'].map(three_let_dict)
-        b = b[b['Date'] > np.datetime64('today')].iloc[:1]
+        b = b[b['Date'] >= np.datetime64('today')].iloc[:1]
         df = pd.concat([df,b])
     os.chdir(dir_path)
 df = df.reset_index(drop = True)
@@ -544,7 +538,7 @@ df['Avg_Poss_Opp'] = (df['Avg_Poss_Opp'] - df.groupby(['Opp'])['Avg_Poss_Opp'].t
 
 
 df_test = df[df['Date'] < np.datetime64('today')]
-df_pred = df[df['Date'] >  np.datetime64('today')]
+df_pred = df[df['Date'] >=  np.datetime64('today')]
 df_pred['GF_x'] = 0
 df_pred['GA_x'] = 0
 df_poo = df_pred
@@ -659,3 +653,71 @@ relative_folder = fr'{current_season}_{current_season + 1}_Match_Predictions'
 full_path = os.path.join(current_folder, relative_folder)
 
 d2.to_csv(fr'{full_path}\{current_season}_{current_season + 1}_{today.strftime("%b%d")}_predictions.csv')
+
+
+###bet365###
+
+url = 'https://www.aceodds.com/football/premiership.html'
+
+df = pd.read_html(url)
+
+betting_odds = pd.DataFrame()
+df = df[0].replace(' ','/')
+
+df = df[df[1].str.contains("/")]
+df[2] = df[2].str.replace('Draw', '')
+betting_odds ['Club'] = df[1].str.rsplit(" ", 1, expand = True)[0]
+betting_odds ['Opp'] = df[3].str.rsplit(" ", 1, expand = True)[0]
+betting_odds ['bet365_win'] = df[1].str.rsplit(" ", 1, expand = True)[1]
+betting_odds ['bet365_draw'] = df[2]
+betting_odds ['bet365_loss'] = df[3].str.rsplit(" ", 1, expand = True)[1]
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Man Utd', 'Manchester Utd')
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Man City', 'Manchester City')
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Newcastle', 'Newcastle Utd')
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Nottm Forest', "Nott'ham Forest")
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Wolverhampton', "Wolves")
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Leicester', "Leicester City")
+betting_odds[['Club','Opp']] = betting_odds[['Club','Opp']].replace('Leeds', "Leeds United")
+betting_odds['Club'] = betting_odds['Club'].map(three_let_dict)
+betting_odds['Opp'] = betting_odds['Opp'].map(three_let_dict)
+
+betting_odds ['bet365_win'] = betting_odds['bet365_win'].str.rsplit("/", 1, expand = True)[1].astype(int) / (betting_odds['bet365_win'].str.rsplit("/", 1, expand = True)[0].astype(int) + betting_odds['bet365_win'].str.rsplit("/", 1, expand = True)[1].astype(int))
+betting_odds ['bet365_draw'] = betting_odds['bet365_draw'].str.rsplit("/", 1, expand = True)[1].astype(int) / (betting_odds['bet365_draw'].str.rsplit("/", 1, expand = True)[0].astype(int) + betting_odds['bet365_draw'].str.rsplit("/", 1, expand = True)[1].astype(int))
+betting_odds ['bet365_loss'] = betting_odds['bet365_loss'].str.rsplit("/", 1, expand = True)[1].astype(int) / (betting_odds['bet365_loss'].str.rsplit("/", 1, expand = True)[0].astype(int) + betting_odds['bet365_loss'].str.rsplit("/", 1, expand = True)[1].astype(int))
+
+
+res = []
+# Iterate directory
+for path in os.listdir(dir_path):
+    # check if current path is a folder
+    if os.path.isdir(os.path.join(dir_path, path)) and 'Predictions' in path:
+        res.append(path)
+
+os.chdir(fr'{dir_path}\{res[-1]}')
+
+print (res)
+
+full_path = fr'{dir_path}\{res[-1]}'
+print (full_path)
+
+list_of_files = os.listdir()
+
+prediction_table = pd.read_csv(fr'{full_path}\{list_of_files[-1]}',index_col = 0)
+
+prediction_table = prediction_table[['Club_x','Opp_x','win_prob','draw_prob','loss_prob']]
+
+final_table = pd.merge(prediction_table,betting_odds,left_on = ['Club_x','Opp_x'],right_on = ['Club','Opp'])
+
+final_table = final_table.drop(columns = ['Club','Opp'])
+final_table['Buy_Home_Win'] = final_table['win_prob'] - final_table['bet365_win']
+final_table['Buy_Home_Win'] = final_table['Buy_Home_Win'].apply(lambda x: 'Yes' if x > 0.1 else 'No')
+final_table['Buy_Draw'] = final_table['draw_prob'] - final_table['bet365_draw']
+final_table['Buy_Draw'] = final_table['Buy_Draw'].apply(lambda x: 'Yes' if x > 0.1 else 'No')
+final_table['Buy_Home_Loss'] = final_table['loss_prob'] - final_table['bet365_loss']
+final_table['Buy_Home_Loss'] = final_table['Buy_Home_Loss'].apply(lambda x: 'Yes' if x > 0.1 else 'No')
+final_table = final_table.set_index(['Club_x', 'Opp_x'])
+final_table.to_csv(fr'{full_path}\{current_season}_{current_season + 1}_{today.strftime("%b%d")}_bet365.csv')
+
+for i in ['Buy_Home_Win','Buy_Draw','Buy_Home_Loss']:
+    print(fr"{i} {final_table.index[final_table[i] == 'Yes'].tolist()}")
+
