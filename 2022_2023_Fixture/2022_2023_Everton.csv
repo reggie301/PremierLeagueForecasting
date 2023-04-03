@@ -20,20 +20,20 @@
 21,2023-01-14,Home,L,1,2,Southampton,1.4,1.2,52,Everton
 22,2023-01-21,Away,L,0,2,West Ham,0.5,2.2,67,Everton
 23,2023-02-04,Home,W,1,0,Arsenal,1.7,0.9,30,Everton
-24,2023-02-13,Away,L,0,2,Liverpool,0.3,2.2,41,Everton
+24,2023-02-13,Away,L,0,2,Liverpool,0.4,2.3,41,Everton
 25,2023-02-18,Home,W,1,0,Leeds United,1.4,0.5,51,Everton
 26,2023-02-25,Home,L,0,2,Aston Villa,1.6,1.9,47,Everton
-27,2023-03-01,Away,L,0,4,Arsenal,1.2,2.7,27,Everton
-28,2023-03-05,Away,D,2,2,Nott'ham Forest,1.7,0.9,43,Everton
-29,2023-03-11,Home,,,,Brentford,,,,Everton
-30,2023-03-18,Away,,,,Chelsea,,,,Everton
+27,2023-03-01,Away,L,0,4,Arsenal,1.2,2.6,27,Everton
+28,2023-03-05,Away,D,2,2,Nott'ham Forest,1.7,0.8,43,Everton
+29,2023-03-11,Home,W,1,0,Brentford,1.0,2.0,33,Everton
+30,2023-03-18,Away,D,2,2,Chelsea,1.2,2.3,32,Everton
 31,2023-04-03,Home,,,,Tottenham,,,,Everton
 32,2023-04-08,Away,,,,Manchester Utd,,,,Everton
 33,2023-04-15,Home,,,,Fulham,,,,Everton
 34,2023-04-22,Away,,,,Crystal Palace,,,,Everton
 35,2023-04-27,Home,,,,Newcastle Utd,,,,Everton
 36,2023-05-01,Away,,,,Leicester City,,,,Everton
-37,2023-05-06,Away,,,,Brighton,,,,Everton
+37,2023-05-08,Away,,,,Brighton,,,,Everton
 38,2023-05-13,Home,,,,Manchester City,,,,Everton
 39,2023-05-20,Away,,,,Wolves,,,,Everton
 40,2023-05-28,Home,,,,Bournemouth,,,,Everton

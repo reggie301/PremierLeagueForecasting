@@ -16,24 +16,24 @@
 16,2022-11-12,Away,W,2,0,West Ham,1.8,1.4,46,Leicester City
 18,2022-12-26,Home,L,0,3,Newcastle Utd,0.5,1.9,60,Leicester City
 19,2022-12-30,Away,L,1,2,Liverpool,1.0,2.2,43,Leicester City
-20,2023-01-03,Home,L,0,1,Fulham,1.7,1.7,60,Leicester City
+20,2023-01-03,Home,L,0,1,Fulham,1.7,1.7,61,Leicester City
 23,2023-01-14,Away,L,0,2,Nott'ham Forest,1.0,2.4,61,Leicester City
 24,2023-01-21,Home,D,2,2,Brighton,0.9,1.7,37,Leicester City
 26,2023-02-04,Away,W,4,2,Aston Villa,2.6,1.7,38,Leicester City
-27,2023-02-11,Home,W,4,1,Tottenham,1.5,1.2,50,Leicester City
-28,2023-02-19,Away,L,0,3,Manchester Utd,1.4,4.1,43,Leicester City
+27,2023-02-11,Home,W,4,1,Tottenham,1.7,1.3,49,Leicester City
+28,2023-02-19,Away,L,0,3,Manchester Utd,1.6,4.4,43,Leicester City
 29,2023-02-25,Home,L,0,1,Arsenal,0.0,0.7,35,Leicester City
 31,2023-03-04,Away,L,0,1,Southampton,1.9,1.4,65,Leicester City
-32,2023-03-11,Home,,,,Chelsea,,,,Leicester City
-33,2023-03-18,Away,,,,Brentford,,,,Leicester City
-34,2023-04-01,Away,,,,Crystal Palace,,,,Leicester City
+32,2023-03-11,Home,L,1,3,Chelsea,2.4,1.6,48,Leicester City
+33,2023-03-18,Away,D,1,1,Brentford,1.3,0.6,47,Leicester City
+34,2023-04-01,Away,L,1,2,Crystal Palace,0.2,2.3,48,Leicester City
 35,2023-04-04,Home,,,,Aston Villa,,,,Leicester City
 36,2023-04-08,Home,,,,Bournemouth,,,,Leicester City
-37,2023-04-16,Away,,,,Manchester City,,,,Leicester City
+37,2023-04-15,Away,,,,Manchester City,,,,Leicester City
 38,2023-04-22,Home,,,,Wolves,,,,Leicester City
 39,2023-04-25,Away,,,,Leeds United,,,,Leicester City
 40,2023-05-01,Home,,,,Everton,,,,Leicester City
-41,2023-05-06,Away,,,,Fulham,,,,Leicester City
+41,2023-05-08,Away,,,,Fulham,,,,Leicester City
 42,2023-05-13,Home,,,,Liverpool,,,,Leicester City
 43,2023-05-20,Away,,,,Newcastle Utd,,,,Leicester City
 44,2023-05-28,Home,,,,West Ham,,,,Leicester City
