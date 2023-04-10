@@ -21,7 +21,7 @@ change_in_table = input('Change in table? (Y/N)')
 
 ## PREMIER LEAGUE TABLE SCRIPT SCRAPES CURRENT TABLE ##
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 current_folder = os.getcwd()
@@ -96,7 +96,7 @@ url = r'https://projects.fivethirtyeight.com/soccer-predictions/premier-league/'
 date_dict = {'Sept': 'Sep', 'March': 'Mar',
              'April': 'Apr', 'June': 'Jun', 'July': 'Jul'}
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 current_folder = os.getcwd()
@@ -136,7 +136,7 @@ for i in range(current_season, current_season + 1):
 
     # Makes sure we are in the right folder
 
-    if not os.getcwd().endswith('Football Forecasting Version 2'):
+    if not os.getcwd().endswith('PremierLeagueForecasting'):
         os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
     current_folder = os.getcwd()
@@ -241,7 +241,7 @@ for i in range(current_season, current_season + 1):
 
 
 ## CREATES MASTER HISTORICAL DATA ##
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 dir_path = os.getcwd()
@@ -411,7 +411,7 @@ df_final = df_final.sort_values(by=['Club', 'Season', 'Date'])
 
 # df_final = df_final.dropna()
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 os.chdir(fr'{dir_path}\{current_season}_{current_season + 1}_Clean_Data')
@@ -423,7 +423,7 @@ df_final.to_csv(
 
 ## PREPARES PREDICTION TABLE ###
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 dir_path = os.getcwd()
@@ -482,7 +482,7 @@ rename_columns = {'Venue_x': 'Venue', 'Result_x': 'Result',
 df_final = spi_everything_merge_2.rename(rename_columns, axis='columns')
 
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 os.chdir(fr'{dir_path}\{current_season}_{current_season + 1}_Clean_Data')
@@ -492,7 +492,7 @@ df_final.to_csv(
 
 ### REGRESSION PREDICTOR ###
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 dir_path = os.getcwd()
@@ -745,7 +745,7 @@ d2['loss_prob'] = d2['loss_prob']/d2['sum']
 
 d2 = d2.drop(columns = ['sum'])
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 current_folder = os.getcwd()
@@ -806,7 +806,7 @@ betting_odds['bet365_loss'] = betting_odds['bet365_loss'].str.rsplit("/", 1, exp
 
 
 
-if not os.getcwd().endswith('Football Forecasting Version 2'):
+if not os.getcwd().endswith('PremierLeagueForecasting'):
     os.chdir(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
 
 current_folder = os.getcwd()
