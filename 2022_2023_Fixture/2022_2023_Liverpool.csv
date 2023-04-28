@@ -28,12 +28,12 @@
 40,2023-04-01,Away,L,1,4,Manchester City,0.3,2.9,32,Liverpool
 41,2023-04-04,Away,D,0,0,Chelsea,0.3,2.2,51,Liverpool
 42,2023-04-09,Home,D,2,2,Arsenal,3.9,1.4,59,Liverpool
-43,2023-04-17,Away,,,,Leeds United,,,,Liverpool
-44,2023-04-22,Home,,,,Nott'ham Forest,,,,Liverpool
-45,2023-04-26,Away,,,,West Ham,,,,Liverpool
+43,2023-04-17,Away,W,6,1,Leeds United,2.7,1.4,73,Liverpool
+44,2023-04-22,Home,W,3,2,Nott'ham Forest,2.8,0.9,80,Liverpool
+45,2023-04-26,Away,W,2,1,West Ham,1.9,0.8,72,Liverpool
 46,2023-04-30,Home,,,,Tottenham,,,,Liverpool
 47,2023-05-03,Home,,,,Fulham,,,,Liverpool
 48,2023-05-06,Home,,,,Brentford,,,,Liverpool
-49,2023-05-13,Away,,,,Leicester City,,,,Liverpool
+49,2023-05-15,Away,,,,Leicester City,,,,Liverpool
 50,2023-05-20,Home,,,,Aston Villa,,,,Liverpool
 51,2023-05-28,Away,,,,Southampton,,,,Liverpool
