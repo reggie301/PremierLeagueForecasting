@@ -28,12 +28,12 @@
 40,2023-03-11,Away,W,1,0,Crystal Palace,2.1,0.2,67,Manchester City
 43,2023-04-01,Home,W,4,1,Liverpool,2.9,0.3,68,Manchester City
 44,2023-04-08,Away,W,4,1,Southampton,2.9,0.4,73,Manchester City
-46,2023-04-15,Home,,,,Leicester City,,,,Manchester City
-49,2023-04-23,Away,,,,Brighton,,,,Manchester City
-50,2023-04-26,Home,,,,Arsenal,,,,Manchester City
-51,2023-04-30,Away,,,,Fulham,,,,Manchester City
-52,2023-05-03,Home,,,,West Ham,,,,Manchester City
-53,2023-05-07,Home,,,,Leeds United,,,,Manchester City
-54,2023-05-13,Away,,,,Everton,,,,Manchester City
-55,2023-05-20,Home,,,,Chelsea,,,,Manchester City
-56,2023-05-28,Away,,,,Brentford,,,,Manchester City
+46,2023-04-15,Home,W,3,1,Leicester City,1.6,2.3,70,Manchester City
+49,2023-04-26,Home,W,4,1,Arsenal,2.5,0.5,52,Manchester City
+50,2023-04-30,Away,,,,Fulham,,,,Manchester City
+51,2023-05-03,Home,,,,West Ham,,,,Manchester City
+52,2023-05-06,Home,,,,Leeds United,,,,Manchester City
+54,2023-05-14,Away,,,,Everton,,,,Manchester City
+56,2023-05-21,Home,,,,Chelsea,,,,Manchester City
+57,2023-05-24,Away,,,,Brighton,,,,Manchester City
+58,2023-05-28,Away,,,,Brentford,,,,Manchester City

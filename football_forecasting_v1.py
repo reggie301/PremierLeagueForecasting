@@ -10,11 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 import xgboost as xgb
 
 
-
-
 current_season = int(input('What is the current season?'))
-
-
 
 change_in_table = input('Change in table? (Y/N)')
 

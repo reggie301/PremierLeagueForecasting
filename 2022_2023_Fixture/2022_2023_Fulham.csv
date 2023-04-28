@@ -28,9 +28,9 @@
 31,2023-03-12,Home,L,0,3,Arsenal,0.8,2.3,45,Fulham
 33,2023-04-01,Away,L,1,2,Bournemouth,0.8,2.6,57,Fulham
 34,2023-04-08,Home,L,0,1,West Ham,0.7,1.1,76,Fulham
-35,2023-04-15,Away,,,,Everton,,,,Fulham
-36,2023-04-22,Home,,,,Leeds United,,,,Fulham
-37,2023-04-25,Away,,,,Aston Villa,,,,Fulham
+35,2023-04-15,Away,W,3,1,Everton,1.8,1.4,54,Fulham
+36,2023-04-22,Home,W,2,1,Leeds United,1.7,0.8,50,Fulham
+37,2023-04-25,Away,L,0,1,Aston Villa,0.1,1.0,49,Fulham
 38,2023-04-30,Home,,,,Manchester City,,,,Fulham
 39,2023-05-03,Away,,,,Liverpool,,,,Fulham
 40,2023-05-08,Home,,,,Leicester City,,,,Fulham
